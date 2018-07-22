@@ -1,2 +1,6 @@
 THis is master file
+<<<<<<< HEAD
 Secondary Line
+=======
+second line
+>>>>>>> 735e4c4cb5d9fb983d4b9d13f5316ca70c7cd17f
