@@ -4,7 +4,4 @@ Second Line
 number three line
 Fourth Line
 
-Entry from test branch
-=======
-THis is the test.txt file contnt
->>>>>>> 107754c995b7128c84e715d2e2d83c09560295e6
+Fifth Line
