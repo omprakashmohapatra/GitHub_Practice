@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-First Line
-Second Line
-number three line
-Fourth Line
-
-Fifth Line
